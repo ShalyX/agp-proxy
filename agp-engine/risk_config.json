@@ -1,0 +1,10 @@
+{
+  "max_leverage": 10,
+  "max_position_size_usdt": 5000,
+  "allowed_pairs": ["BTCUSDT", "ETHUSDT", "SOLUSDT"],
+  "discord_webhook_url": "",
+  "bitget_api_key": "",
+  "bitget_api_secret": "",
+  "bitget_api_passphrase": "",
+  "bitget_api_url": "https://api-testnet.bitget.com"
+}

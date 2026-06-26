@@ -1,0 +1,13 @@
+{
+  "name": "agp-mcp",
+  "version": "1.0.0",
+  "description": "Agent Hallucination Guardrail Proxy MCP Server",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.6.0"
+  }
+}
